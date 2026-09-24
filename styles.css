@@ -60,3 +60,4 @@ footer{border-top:1px solid var(--line);padding:34px 0 54px;color:var(--muted)}
 .footer-inner{display:flex;justify-content:space-between;gap:20px;align-items:center}.footer-217{font-family:Georgia,serif;font-size:2.8rem;color:var(--gold2)}
 @media(max-width:900px){.hero,.split{grid-template-columns:1fr}.hero{gap:25px;padding-top:60px}.hero-art{order:-1}.seal{width:min(230px,62vw)}.proofgrid{grid-template-columns:repeat(2,1fr)}.cards.three,.cards.two{grid-template-columns:1fr}}
 @media(max-width:640px){nav{display:none}.proofgrid{grid-template-columns:1fr 1fr}.proofgrid div:nth-child(2){border-right:0}.hero-art{padding-top:4px}.productions{letter-spacing:.14em}}
+.brand-mark{display:block;width:min(430px,88vw);margin-inline:auto;filter:drop-shadow(0 24px 55px rgba(201,152,69,.12));border-radius:28px}
